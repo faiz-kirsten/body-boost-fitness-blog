@@ -22,4 +22,4 @@ Clone the project
 
 ![App Screenshot](assets/demo-assets/bodyboost-demo-1.jpg)
 ![App Screenshot](assets/demo-assets/body-boost-demo-2.jpg)
-![App Screenshot](assets/demo-assets/body-boost-demo-3.jpg)
+![App Screenshot](assets/demo-assets/bodyboost-demo-3.jpg)
