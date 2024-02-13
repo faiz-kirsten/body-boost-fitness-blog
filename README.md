@@ -5,7 +5,7 @@ BodyBoost Blog is a fitness-focused website showcasing articles on workouts, nut
 ## Demo
 
 ![App Screenshot](assets/demo-assets/bodyboost-demo-main.gif)<br>
-[Live Demo](https://github.com/faiz-kirsten/body-boost-fitness-blog)
+[Live Demo](https://faiz-kirsten.github.io/body-boost-fitness-blog/)
 
 ## Tech Stack
 
