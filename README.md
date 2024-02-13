@@ -20,6 +20,6 @@ Clone the project
 
 ## Screenshots
 
-![App Screenshot](assets/demo-assets/body-boost-demo-1.jpg)
+![App Screenshot](assets/demo-assets/bodyboost-demo-1.jpg)
 ![App Screenshot](assets/demo-assets/body-boost-demo-2.jpg)
 ![App Screenshot](assets/demo-assets/body-boost-demo-3.jpg)
